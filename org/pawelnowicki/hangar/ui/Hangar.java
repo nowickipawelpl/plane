@@ -1,4 +1,4 @@
-package org.Pawe³Nowicki.hangar.ui;
+package org.pawelnowicki.hangar.ui;
 
 import org.pawelnowicki.hangar.dto.Part;
 import org.pawelnowicki.hangar.dto.Plane;
